@@ -1,0 +1,11 @@
+WTB_saddle,1234567890,33.00,25.58,false,25
+26inTube,1234567891,7.00,5.58,true,25
+seatPost,1234567892,17.00,15.21,true,25
+carbonHandleBars42cm,1234567893,47.00,5.58,true,25
+700-23SwhalbeTire,1234567894,50.00,40.50,true,10
+700-25SwhalbeTire,1234567895,50.00,40.50,true,10
+10spRearDerailuer,1234567896,60.00,50.50,true,10
+10spFrontDerailuer,1234567897,60.00,50.50,true,10
+11spRearDerailuer,1234567898,60.00,50.50,true,10
+11spFrontDerailuer,1234567899,60.00,50.50,true,10
+mensBibsMedium,1234567900,110.00,99.00,false,4
